@@ -1,0 +1,6 @@
+#looping through a list
+cars=["nissan","toyota","honda"]
+for x in cars:
+  print(x)
+for i in range(len(cars)):
+  print(cars[i])

@@ -1,0 +1,5 @@
+#printing items in the list
+cars=[1,2,3,4,["toyota","nissan","ford","mazda"],["true","false"]]
+print(cars[0])
+print(cars[1])
+print(cars[2:6])

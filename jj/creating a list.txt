@@ -1,0 +1,3 @@
+#creating a list
+cars=["toyota","nissan","ford","mazda"]
+print(cars)

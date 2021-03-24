@@ -1,0 +1,6 @@
+#check if item exist
+cars=["toyota","nissan","ford"]
+if "toyota" in cars:
+  print("Yes 'toyota' is in the cars list")
+else:
+  print("no item")
